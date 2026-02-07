@@ -72,7 +72,7 @@ If referencing this work:
 This project is released publicly for academic, theoretical, and computational research.
 
 ---
-![cover](cover.png.PNG)
+![cover](cover.PNG)
 <p align="center">
   <img src="cover.png" alt="Symbolic Mechanics Whitepaper Cover" width="80%">
 </p>
