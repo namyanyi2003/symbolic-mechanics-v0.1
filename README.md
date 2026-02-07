@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Symbolic Mechanics Whitepaper Cover" width="80%">
+  <img src="cover.PNG" alt="Symbolic Mechanics Whitepaper Cover" width="80%">
 </p>
 
 # Symbolic Mechanics — v0.1  
