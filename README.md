@@ -72,3 +72,4 @@ If referencing this work:
 This project is released publicly for academic, theoretical, and computational research.
 
 ---
+![cover](cover.png)
