@@ -73,3 +73,10 @@ This project is released publicly for academic, theoretical, and computational r
 
 ---
 ![cover](cover.png.PNG)
+<p align="center">
+  <img src="cover.png" alt="Symbolic Mechanics Whitepaper Cover" width="80%">
+</p>
+
+# symbolic-mechanics-v0.1
+Whitepaper: *Symbolic Mechanics v0.1 — A foundational mechanical framework for symbolic processing.*
+
